@@ -1,0 +1,163 @@
+(itiny2_modified_5
+CachedResponse
+p0
+(dp1
+S'softspace'
+p2
+I0
+sS'buflist'
+p3
+(lp4
+sS'url'
+p5
+S'http://www.google-analytics.com/__utm.gif?utmwv=5.5.0&utms=2&utmn=500867596&utmhn=www.quora.com&utme=8(is_logged_in*is_mobile*4!page_type)9(false*false*4!Answer)&utmcs=UTF-8&utmsr=1366x768&utmvp=1304x678&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=11.2%20r202&utmdt=Abhinav%20Rastogi%27s%20answer%20to%20Jaypee%20Institute%20of%20Information%20Technology%2C%20Noida%3A%20What%20advice%20or%20tips%20would%20you%20give%20to%20a%203rd%20year%20cse%20students%20regarding%20placements%20at%20jiit%3F%20-%20Quora&utmhid=1704869598&utmr=http%3A%2F%2Fl.facebook.com%2Fl.php%3Fu%3Dhttp%253A%252F%252Fwww.quora.com%252FJaypee-Institute-of-Information-Technology-Noida%252FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%252Fanswer%252FAbhinav-Rastogi%253Fshare%253D1%26h%3D7AQF5SWh-AQFUuL0H0s1pV7skJGXVQo4RBUO228LtmQfOvA%26enc%3DAZPWwFrRyZ2xvjrZ0Nw-o5XvE9y9YuJjE5Qvwgme78RWxa-sPjTrDprB5iBIMtQpBsh1aBGnsLGckljvuaW4rQMLgOL2w-L8mR7CwPHzIdwrcmSJBz7CZSoAauIUduIvHxA%26s%3D1&utmp=%2FJaypee-Institute-of-Information-Technology-Noida%2FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%2Fanswer%2FAbhinav-Rastogi%3Fshare%3D1&utmht=1399882855173&utmac=UA-16618355-1&utmcc=__utma%3D261736717.205380199.1399882833.1399882833.1399882833.1%3B%2B__utmz%3D261736717.1399882833.1.1.utmcsr%3Dl.facebook.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fl.php%3B&utmu=qRAAAAAAAAAAAAAAQ~'
+p6
+sS'pos'
+p7
+I0
+sS'len'
+p8
+I35
+sS'headers'
+p9
+(ihttplib
+HTTPMessage
+p10
+(dp11
+S'fp'
+p12
+NsS'status'
+p13
+S''
+p14
+sS'startofbody'
+p15
+NsS'startofheaders'
+p16
+NsS'subtype'
+p17
+S'gif'
+p18
+sS'type'
+p19
+S'image/gif'
+p20
+sS'maintype'
+p21
+S'image'
+p22
+sg9
+(lp23
+S'Pragma: no-cache\r\n'
+p24
+aS'Expires: Wed, 19 Apr 2000 11:43:00 GMT\r\n'
+p25
+aS'Last-Modified: Wed, 21 Jan 2004 19:51:30 GMT\r\n'
+p26
+aS'X-Content-Type-Options: nosniff\r\n'
+p27
+aS'Content-Type: image/gif\r\n'
+p28
+aS'Date: Thu, 08 May 2014 08:22:20 GMT\r\n'
+p29
+aS'Server: Golfe2\r\n'
+p30
+aS'Content-Length: 35\r\n'
+p31
+aS'Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate\r\n'
+p32
+aS'Age: 345449\r\n'
+p33
+aS'Alternate-Protocol: 80:quic\r\n'
+p34
+aS'Connection: close\r\n'
+p35
+aS'x-urllib2-cache: Stored\n'
+p36
+asS'dict'
+p37
+(dp38
+S'alternate-protocol'
+p39
+S'80:quic'
+p40
+sS'content-length'
+p41
+S'35'
+p42
+sS'x-urllib2-cache'
+p43
+S'Stored'
+p44
+sS'x-content-type-options'
+p45
+S'nosniff'
+p46
+sS'age'
+p47
+S'345449'
+p48
+sS'expires'
+p49
+S'Wed, 19 Apr 2000 11:43:00 GMT'
+p50
+sS'server'
+p51
+S'Golfe2'
+p52
+sS'last-modified'
+p53
+S'Wed, 21 Jan 2004 19:51:30 GMT'
+p54
+sS'connection'
+p55
+S'close'
+p56
+sS'pragma'
+p57
+S'no-cache'
+p58
+sS'cache-control'
+p59
+S'private, no-cache, no-cache=Set-Cookie, proxy-revalidate'
+p60
+sS'date'
+p61
+S'Thu, 08 May 2014 08:22:20 GMT'
+p62
+sS'content-type'
+p63
+S'image/gif'
+p64
+ssS'typeheader'
+p65
+g64
+sS'encodingheader'
+p66
+NsS'seekable'
+p67
+I0
+sS'unixfrom'
+p68
+g14
+sS'plisttext'
+p69
+g14
+sS'plist'
+p70
+(lp71
+sbsS'code'
+p72
+I200
+sS'closed'
+p73
+I00
+sS'msg'
+p74
+S'OK'
+p75
+sS'buf'
+p76
+S'GIF89a\x01\x00\x01\x00\x80\xff\x00\xff\xff\xff\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;'
+p77
+sb.

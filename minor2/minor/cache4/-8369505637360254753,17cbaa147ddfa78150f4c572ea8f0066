@@ -1,0 +1,178 @@
+(itiny2_modified_5
+CachedResponse
+p0
+(dp1
+S'softspace'
+p2
+I0
+sS'buflist'
+p3
+(lp4
+sS'url'
+p5
+S'http://qsc.is.quoracdn.net/-b6443b167597269b.css'
+p6
+sS'pos'
+p7
+I0
+sS'len'
+p8
+I1436
+sS'headers'
+p9
+(ihttplib
+HTTPMessage
+p10
+(dp11
+S'fp'
+p12
+NsS'status'
+p13
+S''
+p14
+sS'startofbody'
+p15
+NsS'startofheaders'
+p16
+NsS'subtype'
+p17
+S'css'
+p18
+sS'type'
+p19
+S'text/css'
+p20
+sS'maintype'
+p21
+S'text'
+p22
+sg9
+(lp23
+S'Content-Type: text/css;charset=utf-8\r\n'
+p24
+aS'Content-Length: 1436\r\n'
+p25
+aS'Connection: close\r\n'
+p26
+aS'Accept-Ranges: bytes\r\n'
+p27
+aS'x-amz-id-2: P2KawFJ5RRjGYpd3SFaATWKFMQvAnczUBzR1MbO/r+FDtRrNB2Y/j/xv4csvHgPQ\n'
+p28
+aS'x-instart-request-id: 14631347595030236944:OBZ02-NPPRY01:1399882787:34\n'
+p29
+aS'expires: Sun, 17 Jan 2038 19:14:07 GMT\n'
+p30
+aS'x-instart-cache-id: 5598857367909019378\n'
+p31
+aS'last-modified: Thu, 08 May 2014 21:51:22 GMT\n'
+p32
+aS'x-amz-request-id: 53540388ACCD86DD\n'
+p33
+aS'etag: "3a8c3ba5297d082510cbef914574ce49"\n'
+p34
+aS'cache-control: public, max-age=315360000\n'
+p35
+aS'date: Fri, 09 May 2014 14:58:46 GMT\n'
+p36
+aS'server: AmazonS3\n'
+p37
+aS'x-urllib2-cache: Stored\n'
+p38
+asS'dict'
+p39
+(dp40
+S'content-length'
+p41
+S'1436'
+p42
+sS'x-urllib2-cache'
+p43
+S'Stored'
+p44
+sS'x-amz-id-2'
+p45
+S'P2KawFJ5RRjGYpd3SFaATWKFMQvAnczUBzR1MbO/r+FDtRrNB2Y/j/xv4csvHgPQ'
+p46
+sS'accept-ranges'
+p47
+S'bytes'
+p48
+sS'expires'
+p49
+S'Sun, 17 Jan 2038 19:14:07 GMT'
+p50
+sS'x-instart-cache-id'
+p51
+S'5598857367909019378'
+p52
+sS'last-modified'
+p53
+S'Thu, 08 May 2014 21:51:22 GMT'
+p54
+sS'connection'
+p55
+S'close'
+p56
+sS'x-amz-request-id'
+p57
+S'53540388ACCD86DD'
+p58
+sS'etag'
+p59
+S'"3a8c3ba5297d082510cbef914574ce49"'
+p60
+sS'cache-control'
+p61
+S'public, max-age=315360000'
+p62
+sS'date'
+p63
+S'Fri, 09 May 2014 14:58:46 GMT'
+p64
+sS'server'
+p65
+S'AmazonS3'
+p66
+sS'content-type'
+p67
+S'text/css;charset=utf-8'
+p68
+sS'x-instart-request-id'
+p69
+S'14631347595030236944:OBZ02-NPPRY01:1399882787:34'
+p70
+ssS'typeheader'
+p71
+g68
+sS'encodingheader'
+p72
+NsS'seekable'
+p73
+I0
+sS'unixfrom'
+p74
+g14
+sS'plisttext'
+p75
+S';charset=utf-8'
+p76
+sS'plist'
+p77
+(lp78
+S'charset=utf-8'
+p79
+asbsS'code'
+p80
+I200
+sS'closed'
+p81
+I00
+sS'msg'
+p82
+S'OK'
+p83
+sS'buf'
+p84
+S'/*\nName: inspector.css\nURL: http://qsf.cf.quoracdn.net/-b6443b167597269b.css\nGenerated: 1399585881663440\nFiles: /w2.inspector.css\n*/\n.__w2inspector_label,.__w2inspector_msg,.__w2inspector_label h4{font:13px "Helvetica Neue",Helvetica,Arial,sans-serif}.__w2inspector_highlight{outline:red dotted 1px}.__w2inspector_label{background:#ffd;border:2px solid gray;padding:3px;position:absolute;z-index:9999}.__w2inspector_label h2{font-size:15px;margin-bottom:5px}.__w2inspector_label hr{margin-top:5px}.__w2inspector_msg{color:black;background:white;border:2px solid #000;padding:20px;font-weight:bold;position:fixed;top:100px;left:161px;font-size:30px;z-index:1001}.__w2inspector_code,.__w2inspector_small_code{font-family:"Monaco","Courier New",Courier,monospace}.__w2inspector_code{font-size:12px}.__w2inspector_small_code{font-size:9px}.__w2inspector_label h4{font-size:9px;margin-top:9px;font-weight:bold}.__w2inspector_weak{color:gray}.__w2inspector_kb{position:fixed;background-color:white;padding:2px 4px;font-size:8px;bottom:0;left:0}.__w2inspector_kb li{line-height:14px;clear:both;margin-bottom:2px;overflow:hidden}.__w2inspector_kb b{display:block;text-align:center;width:12px;height:12px;line-height:12px;border:1px solid #ccc;border-bottom-width:2px;border-radius:2px;float:left;margin-right:3px}.__w2inspector_timing{background-color:white;bottom:0;cursor:pointer;font-size:8px;padding:2px;position:fixed;right:0;z-index:1000}'
+p85
+sb.

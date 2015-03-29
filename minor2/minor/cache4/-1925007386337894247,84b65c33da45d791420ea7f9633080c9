@@ -1,0 +1,157 @@
+(itiny2_modified_5
+CachedResponse
+p0
+(dp1
+S'softspace'
+p2
+I0
+sS'buflist'
+p3
+(lp4
+sS'url'
+p5
+S'http://ocsp.digicert.com/'
+p6
+sS'pos'
+p7
+I0
+sS'len'
+p8
+I5
+sS'headers'
+p9
+(ihttplib
+HTTPMessage
+p10
+(dp11
+S'fp'
+p12
+NsS'status'
+p13
+S''
+p14
+sS'startofbody'
+p15
+NsS'startofheaders'
+p16
+NsS'subtype'
+p17
+S'ocsp-response'
+p18
+sS'type'
+p19
+S'application/ocsp-response'
+p20
+sS'maintype'
+p21
+S'application'
+p22
+sg9
+(lp23
+S'Content-Type: application/ocsp-response\r\n'
+p24
+aS'Content-Length: 5\r\n'
+p25
+aS'Connection: close\r\n'
+p26
+aS'x-cache: HIT\n'
+p27
+aS'accept-ranges: bytes\n'
+p28
+aS'expires: Sun, 18 May 2014 20:19:29 GMT\n'
+p29
+aS'server: ECS (sin/479A)\n'
+p30
+aS'last-modified: Sun, 31 Jul 2011 23:00:54 GMT\n'
+p31
+aS'etag: "4e35dea6-5"\n'
+p32
+aS'cache-control: no-cache\n'
+p33
+aS'date: Mon, 12 May 2014 08:19:29 GMT\n'
+p34
+aS'x-urllib2-cache: Stored\n'
+p35
+asS'dict'
+p36
+(dp37
+S'content-length'
+p38
+S'5'
+p39
+sS'x-urllib2-cache'
+p40
+S'Stored'
+p41
+sS'x-cache'
+p42
+S'HIT'
+p43
+sS'accept-ranges'
+p44
+S'bytes'
+p45
+sS'expires'
+p46
+S'Sun, 18 May 2014 20:19:29 GMT'
+p47
+sS'server'
+p48
+S'ECS (sin/479A)'
+p49
+sS'last-modified'
+p50
+S'Sun, 31 Jul 2011 23:00:54 GMT'
+p51
+sS'connection'
+p52
+S'close'
+p53
+sS'etag'
+p54
+S'"4e35dea6-5"'
+p55
+sS'cache-control'
+p56
+S'no-cache'
+p57
+sS'date'
+p58
+S'Mon, 12 May 2014 08:19:29 GMT'
+p59
+sS'content-type'
+p60
+S'application/ocsp-response'
+p61
+ssS'typeheader'
+p62
+g61
+sS'encodingheader'
+p63
+NsS'seekable'
+p64
+I0
+sS'unixfrom'
+p65
+g14
+sS'plisttext'
+p66
+g14
+sS'plist'
+p67
+(lp68
+sbsS'code'
+p69
+I200
+sS'closed'
+p70
+I00
+sS'msg'
+p71
+S'OK'
+p72
+sS'buf'
+p73
+S'0\x03\n\x01\x06'
+p74
+sb.

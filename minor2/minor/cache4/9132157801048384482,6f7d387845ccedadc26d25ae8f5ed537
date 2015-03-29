@@ -1,0 +1,169 @@
+(itiny2_modified_5
+CachedResponse
+p0
+(dp1
+S'softspace'
+p2
+I0
+sS'buflist'
+p3
+(lp4
+sS'url'
+p5
+S'http://www.google-analytics.com/collect?v=1&_v=j20&a=1369102388&t=pageview&_s=1&dl=http%3A%2F%2Fwww.jiit.ac.in%2F&ul=en-us&de=UTF-8&dt=Home&sd=24-bit&sr=1366x768&vp=1304x678&je=0&fl=11.2%20r202&_u=MAC~&cid=442053614.1399704300&tid=UA-46955502-1&z=361879754'
+p6
+sS'pos'
+p7
+I0
+sS'len'
+p8
+I35
+sS'headers'
+p9
+(ihttplib
+HTTPMessage
+p10
+(dp11
+S'fp'
+p12
+NsS'status'
+p13
+S''
+p14
+sS'startofbody'
+p15
+NsS'startofheaders'
+p16
+NsS'subtype'
+p17
+S'gif'
+p18
+sS'type'
+p19
+S'image/gif'
+p20
+sS'maintype'
+p21
+S'image'
+p22
+sg9
+(lp23
+S'Pragma: no-cache\r\n'
+p24
+aS'Expires: Mon, 07 Aug 1995 23:30:00 GMT\r\n'
+p25
+aS'Access-Control-Allow-Origin: *\r\n'
+p26
+aS'Last-Modified: Sun, 17 May 1998 03:00:00 GMT\r\n'
+p27
+aS'X-Content-Type-Options: nosniff\r\n'
+p28
+aS'Content-Type: image/gif\r\n'
+p29
+aS'Date: Thu, 08 May 2014 08:22:20 GMT\r\n'
+p30
+aS'Server: Golfe2\r\n'
+p31
+aS'Content-Length: 35\r\n'
+p32
+aS'Cache-Control: private, no-cache, no-cache=Set-Cookie, proxy-revalidate\r\n'
+p33
+aS'Age: 344808\r\n'
+p34
+aS'Alternate-Protocol: 80:quic\r\n'
+p35
+aS'Connection: close\r\n'
+p36
+aS'x-urllib2-cache: Stored\n'
+p37
+asS'dict'
+p38
+(dp39
+S'alternate-protocol'
+p40
+S'80:quic'
+p41
+sS'content-length'
+p42
+S'35'
+p43
+sS'x-urllib2-cache'
+p44
+S'Stored'
+p45
+sS'x-content-type-options'
+p46
+S'nosniff'
+p47
+sS'age'
+p48
+S'344808'
+p49
+sS'expires'
+p50
+S'Mon, 07 Aug 1995 23:30:00 GMT'
+p51
+sS'server'
+p52
+S'Golfe2'
+p53
+sS'last-modified'
+p54
+S'Sun, 17 May 1998 03:00:00 GMT'
+p55
+sS'connection'
+p56
+S'close'
+p57
+sS'pragma'
+p58
+S'no-cache'
+p59
+sS'cache-control'
+p60
+S'private, no-cache, no-cache=Set-Cookie, proxy-revalidate'
+p61
+sS'date'
+p62
+S'Thu, 08 May 2014 08:22:20 GMT'
+p63
+sS'access-control-allow-origin'
+p64
+S'*'
+p65
+sS'content-type'
+p66
+S'image/gif'
+p67
+ssS'typeheader'
+p68
+g67
+sS'encodingheader'
+p69
+NsS'seekable'
+p70
+I0
+sS'unixfrom'
+p71
+g14
+sS'plisttext'
+p72
+g14
+sS'plist'
+p73
+(lp74
+sbsS'code'
+p75
+I200
+sS'closed'
+p76
+I00
+sS'msg'
+p77
+S'OK'
+p78
+sS'buf'
+p79
+S'GIF89a\x01\x00\x01\x00\x80\xff\x00\xff\xff\xff\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;'
+p80
+sb.

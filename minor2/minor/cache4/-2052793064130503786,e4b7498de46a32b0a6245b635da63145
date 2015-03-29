@@ -1,0 +1,166 @@
+(itiny2_modified_5
+CachedResponse
+p0
+(dp1
+S'softspace'
+p2
+I0
+sS'buflist'
+p3
+(lp4
+sS'url'
+p5
+S'http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.quora.com%2FJaypee-Institute-of-Information-Technology-Noida%2FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%2Fanswer%2FAbhinav-Rastogi%3Fshare%3D1&h=7AQF5SWh-AQFUuL0H0s1pV7skJGXVQo4RBUO228LtmQfOvA&enc=AZPWwFrRyZ2xvjrZ0Nw-o5XvE9y9YuJjE5Qvwgme78RWxa-sPjTrDprB5iBIMtQpBsh1aBGnsLGckljvuaW4rQMLgOL2w-L8mR7CwPHzIdwrcmSJBz7CZSoAauIUduIvHxA&s=1'
+p6
+sS'pos'
+p7
+I0
+sS'len'
+p8
+I20353
+sS'headers'
+p9
+(ihttplib
+HTTPMessage
+p10
+(dp11
+S'fp'
+p12
+NsS'status'
+p13
+S''
+p14
+sS'startofbody'
+p15
+NsS'startofheaders'
+p16
+NsS'subtype'
+p17
+S'html'
+p18
+sS'type'
+p19
+S'text/html'
+p20
+sS'maintype'
+p21
+S'text'
+p22
+sg9
+(lp23
+S'X-Frame-Options: DENY\r\n'
+p24
+aS'X-Content-Type-Options: nosniff\r\n'
+p25
+aS'P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"\r\n'
+p26
+aS'Pragma: no-cache\r\n'
+p27
+aS'Cache-Control: private, no-cache, no-store, must-revalidate\r\n'
+p28
+aS'Expires: Sat, 01 Jan 2000 00:00:00 GMT\r\n'
+p29
+aS'Set-Cookie: datr=_YNwU6ferz9ROXd9_j_tiwXs; expires=Wed, 11-May-2016 08:19:09 GMT; path=/; domain=.facebook.com; httponly\r\n'
+p30
+aS'Content-Type: text/html; charset=utf-8\r\n'
+p31
+aS'X-FB-Debug: 08s+AD4FO3fGwy8Xkac4b+rsKq6Zidm5RX2sg9nlDUw=\r\n'
+p32
+aS'Date: Mon, 12 May 2014 08:19:09 GMT\r\n'
+p33
+aS'Connection: close\r\n'
+p34
+aS'Content-Length: 20353\r\n'
+p35
+aS'x-urllib2-cache: Stored\n'
+p36
+asS'dict'
+p37
+(dp38
+S'content-length'
+p39
+S'20353'
+p40
+sS'x-urllib2-cache'
+p41
+S'Stored'
+p42
+sS'x-content-type-options'
+p43
+S'nosniff'
+p44
+sS'set-cookie'
+p45
+S'datr=_YNwU6ferz9ROXd9_j_tiwXs; expires=Wed, 11-May-2016 08:19:09 GMT; path=/; domain=.facebook.com; httponly'
+p46
+sS'expires'
+p47
+S'Sat, 01 Jan 2000 00:00:00 GMT'
+p48
+sS'x-fb-debug'
+p49
+S'08s+AD4FO3fGwy8Xkac4b+rsKq6Zidm5RX2sg9nlDUw='
+p50
+sS'connection'
+p51
+S'close'
+p52
+sS'pragma'
+p53
+S'no-cache'
+p54
+sS'cache-control'
+p55
+S'private, no-cache, no-store, must-revalidate'
+p56
+sS'date'
+p57
+S'Mon, 12 May 2014 08:19:09 GMT'
+p58
+sS'x-frame-options'
+p59
+S'DENY'
+p60
+sS'content-type'
+p61
+S'text/html; charset=utf-8'
+p62
+sS'p3p'
+p63
+S'CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"'
+p64
+ssS'typeheader'
+p65
+g62
+sS'encodingheader'
+p66
+NsS'seekable'
+p67
+I0
+sS'unixfrom'
+p68
+g14
+sS'plisttext'
+p69
+S'; charset=utf-8'
+p70
+sS'plist'
+p71
+(lp72
+S'charset=utf-8'
+p73
+asbsS'code'
+p74
+I200
+sS'closed'
+p75
+I00
+sS'msg'
+p76
+S'OK'
+p77
+sS'buf'
+p78
+S'<!DOCTYPE html>\n<html lang="en" id="facebook" class="no_js">\n<head><meta charset="utf-8" /><script>function envFlush(a){function b(c){for(var d in a)c[d]=a[d];}if(window.requireLazy){window.requireLazy([\'Env\'],b);}else{Env=window.Env||{};b(Env);}}envFlush({"ajaxpipe_token":"AXjxZIlUn0DxySI0","lhsh":"mAQG-OhDW"});</script><script>CavalryLogger=false;</script><noscript><meta http-equiv="refresh" content="0; URL=/l.php?u=http%3A%2F%2Fwww.quora.com%2FJaypee-Institute-of-Information-Technology-Noida%2FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%2Fanswer%2FAbhinav-Rastogi%3Fshare%3D1&amp;h=7AQF5SWh-AQFUuL0H0s1pV7skJGXVQo4RBUO228LtmQfOvA&amp;enc=AZPWwFrRyZ2xvjrZ0Nw-o5XvE9y9YuJjE5Qvwgme78RWxa-sPjTrDprB5iBIMtQpBsh1aBGnsLGckljvuaW4rQMLgOL2w-L8mR7CwPHzIdwrcmSJBz7CZSoAauIUduIvHxA&amp;s=1&amp;_fb_noscript=1" /></noscript><meta name="referrer" content="default" id="meta_referrer" /><title id="pageTitle">Leaving Facebook...</title><link rel="shortcut icon" href="http://static.ak.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico" />\n    <link type="text/css" rel="stylesheet" href="http://static.ak.fbcdn.net/rsrc.php/v2/yZ/r/hrFU82ZNZdP.css" />\n    <link type="text/css" rel="stylesheet" href="http://static.ak.fbcdn.net/rsrc.php/v2/yM/r/n4tbzYvu_UT.css" />\n    <link type="text/css" rel="stylesheet" href="http://static.ak.fbcdn.net/rsrc.php/v2/yN/r/WWo3YvyQs-v.css" />\n    <link type="text/css" rel="stylesheet" href="http://static.ak.fbcdn.net/rsrc.php/v2/yG/r/RGvGmZtCAsK.css" />\n    <link type="text/css" rel="stylesheet" href="http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/Vi9J4wXhmJ_.css" />\n\n    <script src="http://static.ak.fbcdn.net/rsrc.php/v2/yJ/r/zkGDBzpnr6A.js" crossorigin="anonymous"></script>\n<script>(require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig",[],{"incorporateQuicklingFragment":false,"hashtagRedirect":true},137],["BootloaderConfig",[],{},329],["CurrentUserInitialData",[],{"id":"0","is_employee":false,"is_gray":false},270],["SiteData",[],{"revision":1243607,"tier":"","push_phase":"V3","pkg_cohort":"EXP1:DEFAULT","vip":"31.13.79.96"},317],["DTSGInitialData",[],{},258],["ISB",[],{},330],["LSD",[],{"token":"AVrQ0XSN"},323],["BanzaiConfig",[],{"EXPIRY":86400000,"MAX_SIZE":10000,"MAX_WAIT":150000,"RESTORE_WAIT":150000,"blacklist":["time_spent"],"gks":{"adapterhooks":true,"boosted_pagelikes":true,"boosted_website":true,"boosted_posts":true,"jslogger":true,"miny_compression":true,"pages_client_logging":true,"time_spent_bit_array":true,"time_spent_debug":true,"useraction":true,"videos":true,"visibility_tracking":true,"vitals":true}},7]]);new (require("ServerJS"))().handle({"require":[["markJSEnabled"],["lowerDomain"],["URLFragmentPrelude"],["Primer"],["Bootloader"]]});</script></head><body class="fbx UIPage_LoggedOut hasSmurfbar hasSmurfbarLoggedOut hasPrivacyLite Locale_en_IN" dir="ltr"><div class="_li"><div id="pagelet_bluebar" data-referrer="pagelet_bluebar"><div id="blueBarHolder"><div id="blueBar" class="aboveSidebar"><div><div class="loggedout_menubar_container"><div class="clearfix loggedout_menubar"><a class="lfloat _ohe" href="/" title="Go to Facebook Home"><i class="fb_logo img sp_6y74ue sx_1668ad"><u>Facebook logo</u></i></a><div class="menu_login_container rfloat _ohf"><form id="login_form" action="https://www.facebook.com/login.php?login_attempt=1" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)"><input type="hidden" name="lsd" value="AVrQ0XSN" autocomplete="off" /><table cellspacing="0"><tr><td class="html7magic"><label for="email">Email or Mobile Phone</label></td></tr><tr><td><input type="text" class="inputtext" name="email" id="email" value="" tabindex="1" /></td><td><label class="uiButton uiButtonConfirm" id="loginbutton" for="u_0_0"><input value="Log In" tabindex="4" type="submit" id="u_0_0" /></label></td></tr><tr><td class="login_form_label_field"><div><div class="uiInputLabel clearfix uiInputLabelLegacy"><input id="persist_box" type="checkbox" name="persistent" value="1" tabindex="3" class="uiInputLabelInput uiInputLabelCheckbox" /><label for="persist_box" class="uiInputLabelLabel">Keep me logged in</label></div><input type="hidden" name="default_persistent" value="0" /></div></td></tr></table><input type="hidden" autocomplete="off" name="timezone" value="" id="u_0_1" /><input type="hidden" name="lgnrnd" value="011909_haUb" /><input type="hidden" id="lgnjs" name="lgnjs" value="n" /><input type="hidden" autocomplete="off" id="locale" name="locale" value="en_IN" /><input type="hidden" autocomplete="off" name="next" value="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.quora.com%2FJaypee-Institute-of-Information-Technology-Noida%2FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%2Fanswer%2FAbhinav-Rastogi%3Fshare%3D1&amp;h=7AQF5SWh-AQFUuL0H0s1pV7skJGXVQo4RBUO228LtmQfOvA&amp;enc=AZPWwFrRyZ2xvjrZ0Nw-o5XvE9y9YuJjE5Qvwgme78RWxa-sPjTrDprB5iBIMtQpBsh1aBGnsLGckljvuaW4rQMLgOL2w-L8mR7CwPHzIdwrcmSJBz7CZSoAauIUduIvHxA&amp;s=1" /><input type="hidden" autocomplete="off" id="nopw" name="nopw" value="1" /></form></div></div></div><div class="signupBanner"><div class="signup_bar_container"><div class="signup_box clearfix"><span class="signup_box_content"><a class="_42ft _42fu signup_btn selected _42gz _42gy" role="button" href="/r.php?locale=en_IN">Sign Up</a></span></div></div></div></div></div></div></div><div id="globalContainer" class="uiContextualLayerParent"><div id="content" class="fb_content clearfix"><div class="_5tz9"><div class="_4-u2 mam _5tza"><div class="_585n _556e" id="u_0_2"><img class="_585p img" src="http://static.ak.fbcdn.net/rsrc.php/v2/yK/r/mXkuC3v0c2M.png" alt="Notice" width="18" height="18" /><div class="_585r _50f4">Something Went Wrong</div></div><div class="_4-u3 pam">Sorry, there was a problem with this link: <span class="_5tzb">http://www.<span class="_5tzc">quora.com</span>/Jaypee-Institute-of-Information-Technology-Noida/What-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit/answer/Abhinav-Rastogi?share=1</span><br />You can now continue to this website, or go back to the page you were on before.<br />Remember, only follow links from sources you trust.</div><div class="_4-u3 pam _57d8 _52jw"><a class="_42ft _4jy0 _4jy3 _4jy1 selected" role="button" href="#" id="u_0_3">Go Back</a><a class="_42ft _4jy0 _4jy3 _517h" role="button" href="#" id="u_0_4"><img class="mrs img" src="http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/4AY1GNCvQTe.png" alt="" width="12" height="12" />Follow Link</a></div></div></div></div><div id="pageFooter" data-referrer="page_footer"><div id="contentCurve"></div><div role="contentinfo" aria-label="Facebook site links"><table class="uiGrid _51mz navigationGrid" cellspacing="0" cellpadding="0"><tbody><tr class="_51mx"><td class="_51m- hLeft plm"><a href="http://www.facebook.com/mobile/?ref=pf" title="Check out Facebook Mobile.">Mobile</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/find-friends?ref=pf" title="Find anyone on the web.">Find Friends</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/badges/?ref=pf" title="Embed a Facebook badge on your website.">Badges</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/directory/people/" title="Browse our people directory.">People</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/directory/pages/" title="Browse our pages directory.">Pages</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/directory/places/" title="Browse our places directory.">Places</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/appcenter/?ref=pf" title="Check out Facebook App Center.">Apps</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/appcenter/category/games/?ref=pf" title="Check out Facebook games.">Games</a></td><td class="_51m- hLeft plm _51mw"><a href="http://www.facebook.com/appcenter/category/music/?ref=pf" title="Check out Facebook music apps.">Music</a></td></tr><tr class="_51mx"><td class="_51m- hLeft plm"><a href="http://www.facebook.com/directory/topics/" title="Browse our topics directory.">Topics</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/facebook" accesskey="8" title="Read our blog, discover the resource center, and find job opportunities.">About</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto" title="Advertise on Facebook.">Create Ad</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/pages/create/?ref_type=sitefooter" title="Create a Page">Create Page</a></td><td class="_51m- hLeft plm"><a href="http://developers.facebook.com/?ref=pf" title="Develop on our platform.">Developers</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/careers/?ref=pf" title="Make your next career move to our awesome company.">Careers</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/privacy/explanation" title="Learn about your privacy and Facebook.">Privacy</a></td><td class="_51m- hLeft plm"><a href="http://www.facebook.com/help/cookies/?ref=sitefooter" title="Learn about cookies and Facebook.">Cookies</a></td><td class="_51m- hLeft plm _51mw"><a href="http://www.facebook.com/policies/?ref=pf" accesskey="9" title="Review our terms and policies.">Terms</a></td></tr><tr class="_51mx"><td class="_51m- hLeft plm"><a href="http://www.facebook.com/help/?ref=pf" accesskey="0" title="Visit our Help Center.">Help</a></td></tr></tbody></table></div><div class="mvl copyright"><div class="fsm fwn fcg"><span> Facebook \xc2\xa9 2014</span> \xc2\xb7 <a rel="dialog" ajaxify="/settings/language/language/?uri=http%3A%2F%2Fl.facebook.com%2Fl.php%3Fu%3Dhttp%253A%252F%252Fwww.quora.com%252FJaypee-Institute-of-Information-Technology-Noida%252FWhat-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit%252Fanswer%252FAbhinav-Rastogi%253Fshare%253D1%26h%3D7AQF5SWh-AQFUuL0H0s1pV7skJGXVQo4RBUO228LtmQfOvA%26enc%3DAZPWwFrRyZ2xvjrZ0Nw-o5XvE9y9YuJjE5Qvwgme78RWxa-sPjTrDprB5iBIMtQpBsh1aBGnsLGckljvuaW4rQMLgOL2w-L8mR7CwPHzIdwrcmSJBz7CZSoAauIUduIvHxA%26s%3D1&amp;source=TOP_LOCALES_DIALOG" title="Use Facebook in another language." href="#" role="button">English (India)</a></div></div></div></div></div>\n<script>requireLazy(["Bootloader"], function(Bootloader) {Bootloader.setResourceMap({"BJ0I6":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yY\\/r\\/KNNTLOy2nbA.js"},"jqPb4":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yk\\/r\\/cqB3SnZopOc.js"},"nPGRm":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yW\\/r\\/UAHoxZSJb_V.js"},"EOYZm":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/y1\\/r\\/UJov4CFLoJl.js"},"4vv8\\/":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yq\\/r\\/sD_-OUjPR3s.js"},"tHV\\/\\/":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yd\\/r\\/GT56f5KuWMj.js"},"BKnZ1":{"type":"css","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yZ\\/r\\/hrFU82ZNZdP.css"},"KAJ6Z":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yM\\/r\\/n4tbzYvu_UT.css"},"kOqgl":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yN\\/r\\/WWo3YvyQs-v.css"},"xJuLL":{"type":"css","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yG\\/r\\/RGvGmZtCAsK.css"},"gZ7er":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/ye\\/r\\/Vi9J4wXhmJ_.css"},"kiW45":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yY\\/r\\/je-g5UNISwT.js"},"TvhFv":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yu\\/r\\/yqY5A4fGlCX.js"},"20549":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yr\\/r\\/VYGrgbVGbv3.js"},"cAkXN":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/ym\\/r\\/pJUPYa-zv3B.js"},"oE4Do":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yV\\/r\\/dvd-Ex7gdZ8.js"},"cNca2":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yX\\/r\\/lKViaHcu9_G.js"},"oixad":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yr\\/r\\/VMIaP4OIg1E.js"},"aE4Qt":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yi\\/r\\/6jyLA9ir4SP.js"},"5OAmc":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yr\\/r\\/wxyyuqxM3g_.js"},"dYgC7":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yt\\/r\\/tVzRWIhpaYq.js"},"EsPXI":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/y9\\/r\\/STTHzICJdlk.js"},"6Zi82":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yN\\/r\\/tO5j-97Pk_B.js"},"lJW+F":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yt\\/r\\/-R2zGM0tQZB.css"},"pj6l\\/":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/y8\\/r\\/qohKBdxzNGm.js"},"jm78B":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yx\\/r\\/rzUCKgRoQ_V.js"},"stBDT":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yP\\/r\\/3av8Kbh7rRY.js"},"TQKTX":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yD\\/r\\/CDp256HlXKA.js"},"5M8ak":{"type":"css","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yX\\/r\\/6r-SOKDoid4.css"},"RrAs2":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yj\\/r\\/QiNZK8H7W7Y.js"},"SQbd1":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yV\\/r\\/tpO6b3DWipp.css"},"TCbz7":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yg\\/r\\/xMmboG5Tgtq.js"},"VDymv":{"type":"css","permanent":1,"crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yu\\/r\\/RmPY_Wl7Ah_.css"},"wxq+C":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yz\\/r\\/Pc6Sn3LXml3.js"},"Rs18G":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yy\\/r\\/Jdi5ZS1uFAk.js"},"6AU0l":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yx\\/r\\/CNInduXmYih.js"},"AtxWD":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/ym\\/r\\/DBJGtr5wDeZ.js"},"zyFOp":{"type":"js","crossOrigin":1,"src":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/yd\\/r\\/IUKSIserlh7.js"}});if (true) {Bootloader.enableBootload({"React":{"resources":["kiW45","BJ0I6"],"module":true},"ExceptionDialog":{"resources":["BJ0I6","kiW45","KAJ6Z","nPGRm","TvhFv","20549"],"module":true},"AsyncDOM":{"resources":["BJ0I6","cAkXN"],"module":true},"ConfirmationDialog":{"resources":["BJ0I6","KAJ6Z","oE4Do"],"module":true},"Dialog":{"resources":["BJ0I6","kiW45","KAJ6Z"],"module":true},"ErrorSignal":{"resources":["BJ0I6","cNca2"],"module":true},"Event":{"resources":["BJ0I6"],"module":true},"AsyncDialog":{"resources":["BJ0I6","kiW45","KAJ6Z","oixad"],"module":true},"AsyncRequest":{"resources":["BJ0I6"],"module":true},"PhotoSnowlift":{"resources":["aE4Qt","BJ0I6","kiW45","KAJ6Z","oixad","5OAmc","nPGRm","dYgC7","EsPXI","6Zi82","lJW+F","pj6l\\/","jm78B","stBDT","TQKTX","5M8ak","RrAs2","SQbd1"],"module":true},"PhotoTagger":{"resources":["BJ0I6","kiW45","KAJ6Z","jm78B","6Zi82","nPGRm","5OAmc","aE4Qt"],"module":true},"Live":{"resources":["BJ0I6","cAkXN","kiW45"],"module":true},"PhotoTagApproval":{"resources":["BJ0I6","aE4Qt","6Zi82"],"module":true},"PhotoTags":{"resources":["BJ0I6","aE4Qt","KAJ6Z","6Zi82"],"module":true},"TagTokenizer":{"resources":["BJ0I6","kiW45","KAJ6Z","TCbz7","6Zi82","nPGRm"],"module":true},"css:fb-photos-snowlift-fullscreen-css":{"resources":["VDymv"]},"SnowliftPicCropper":{"resources":["BJ0I6","kiW45","KAJ6Z","6Zi82","aE4Qt","lJW+F","nPGRm","jm78B","wxq+C"],"module":true},"PhotosButtonTooltips":{"resources":["BJ0I6","KAJ6Z","kiW45","Rs18G"],"module":true},"VideoRotate":{"resources":["BJ0I6","kiW45","KAJ6Z","6AU0l"],"module":true},"AsyncResponse":{"resources":["BJ0I6"],"module":true},"PhotoPermalinkCropper":{"resources":["BJ0I6","kiW45","KAJ6Z","6Zi82","aE4Qt","lJW+F","oixad","jm78B","nPGRm","5OAmc"],"module":true},"PhotoInlineEditor":{"resources":["BJ0I6","aE4Qt","kiW45","KAJ6Z","oixad","jm78B","6Zi82","nPGRm","5OAmc","TCbz7","AtxWD"],"module":true},"Form":{"resources":["BJ0I6","KAJ6Z"],"module":true},"SpotlightShareViewer":{"resources":["BJ0I6","oixad","zyFOp"],"module":true},"Toggler":{"resources":["BJ0I6","kiW45","KAJ6Z"],"module":true},"Tooltip":{"resources":["BJ0I6","KAJ6Z","kiW45"],"module":true},"DOM":{"resources":["BJ0I6"],"module":true},"Input":{"resources":["BJ0I6","KAJ6Z"],"module":true},"trackReferrer":{"resources":[],"module":true},"DimensionTracking":{"resources":["BJ0I6","oixad"],"module":true},"HighContrastMode":{"resources":["BJ0I6","oixad"],"module":true},"DetectBrokenProxyCache":{"resources":["BJ0I6","oixad"],"module":true}});}});</script>\n<script>requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["BJ0I6","jqPb4","nPGRm","EOYZm","4vv8\\/","tHV\\/\\/"]);});</script>\n<script>\nrequireLazy(["Bootloader"], function(Bootloader) {Bootloader.configurePage(["BKnZ1","KAJ6Z","kOqgl","xJuLL","gZ7er"]);});\n\n(require("ServerJSDefine")).handleDefines([["AsyncRequestConfig",[],{"retryOnNetworkError":"1"},328],["TrackingConfig",[],{"domain":"http:\\/\\/pixel.facebook.com"},325],["EagleEyeConfig",[],{"seed":"0ge0"},294],["TimeSpentConfig",[],{"0_delay":0,"0_timeout":8,"delay":200000,"timeout":64},142]]);require("InitialJSLoader").handleServerJS({"elements":[["m_0_3","login_form",2],["m_0_4","loginbutton",2],["m_0_2","u_0_1",2],["m_0_5","login_form",2],["m_0_6","u_0_2",2],["m_0_0","u_0_3",2],["m_0_1","u_0_4",2]],"require":[["LinkshimWarning","initWarningReturn",["m_0_0"],[{"__m":"m_0_0"},"http:\\/\\/www.quora.com\\/Jaypee-Institute-of-Information-Technology-Noida\\/What-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit\\/answer\\/Abhinav-Rastogi?share=1","-1"]],["LinkshimWarning","initWarningContinue",["m_0_1"],[{"__m":"m_0_1"},"http:\\/\\/www.quora.com\\/Jaypee-Institute-of-Information-Technology-Noida\\/What-advice-or-tips-would-you-give-to-a-3rd-year-cse-students-regarding-placements-at-jiit\\/answer\\/Abhinav-Rastogi?share=1","-1"]],["PixelRatio","startDetecting",[],[1]],["Intl","setPhonologicalRules",[],[{"meta":{"\\/_B\\/":"([.,!?\\\\s]|^)","\\/_E\\/":"([.,!?\\\\s]|$)"},"patterns":{"\\/\\u0001(.*)(\'|&#039;)s\\u0001(?:\'|&#039;)s(.*)\\/":"\\u0001$1$2s\\u0001$3","\\/_\\u0001([^\\u0001]*)\\u0001\\/e":"mb_strtolower(\\"\\u0001$1\\u0001\\")","\\/\\\\^\\\\x01([^\\\\x01])(?=[^\\\\x01]*\\\\x01)\\/e":"mb_strtoupper(\\"\\u0001$1\\")","\\/_\\u0001([^\\u0001]*)\\u0001\\/":"javascript"}}]],["PostLoadJS","loadAndRequire",[],["DimensionTracking"]],["PostLoadJS","loadAndCall",[],["HighContrastMode","init",[{"isHCM":false,"spacerImage":"http:\\/\\/static.ak.fbcdn.net\\/rsrc.php\\/v2\\/y4\\/r\\/-PAXP-deijE.gif"}]]],["PostLoadJS","loadAndCall",[],["DetectBrokenProxyCache","run",[0,"c_user"]]],["ScriptPath","set",[],["\\/l.php","069d52f7","02c6f186"]],["ClickRefLogger"],["userAction","setUATypeConfig",[],[{"ua:e":false}]],["ScriptPathState","setUserURISampleRate",[],[0.0002]],["userAction","setCustomSampleConfig",[],[{"ua:n":{"test":{"ua_id":{"test":true}}},"ua:i":{"snowlift":{"action":{"open":true,"close":true}},"canvas":{"action":{"mouseover":true,"mouseout":true}}}}]],["UserActionHistory"],["ScriptPathLogger","startLogging",[],[]],["TimeSpentBitArrayLogger","init",[],[]],["TinyViewport"],["AsyncRequestNectarLogging"],["TimezoneAutoset","setInputValue",["m_0_2"],[{"__m":"m_0_2"},1399882749]],["LoginFormController","init",["m_0_3","m_0_4"],[{"__m":"m_0_3"},{"__m":"m_0_4"},null]],["FlipDirectionOnKeypress"],["ModuleErrorLogger","init",[],[]]]});\n\nonloadRegister_DEPRECATED(function (){try { $("email").focus(); } catch (_ignore) { }});\n</script>'
+p79
+sb.
